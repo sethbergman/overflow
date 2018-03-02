@@ -1,0 +1,26 @@
+{
+  "name": "overflow",
+  "version": "1.0.0",
+  "description": "Overflow by HTML5 UP\r html5up.net | @ajlkn\r Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sethbergman/overflow.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sethbergman/overflow/issues"
+  },
+  "homepage": "https://github.com/sethbergman/overflow#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "consolidate": "^0.15.0",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2"
+  }
+}
